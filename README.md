@@ -22,3 +22,5 @@ This is a custom visualization for the different countries based on OECD data.
 # General government debt visualization 2
 Here is another visualiztion of the same data from OECD about general government debt using line chart in a grid. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12559701"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+[general_government_debt_excercise](general_government_debt_excercise.md)
