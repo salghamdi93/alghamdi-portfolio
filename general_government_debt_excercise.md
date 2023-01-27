@@ -8,6 +8,6 @@ This is a custom visualization for the different countries based on OECD data.
 Here is another visualiztion of the same data from OECD about general government debt using line chart in a grid. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12559701"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Visualization 3: (Column chart (stacked)
+### Visualization 3: (Column chart: stacked)
 Lastly, here is yet another visualiztion of the same data from OECD using stacked chart type with highlighting of sepcific countries. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12560366"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
