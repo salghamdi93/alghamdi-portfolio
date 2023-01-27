@@ -1,10 +1,8 @@
 ## Different Visualizations Of General Government Debt Data From OECD
 
 ### Visualization 1 : (Bar chart)
-<iframe src="https://data.oecd.org/chart/6XPa" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XPa" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
-
 This is a custom visualization for the different countries based on OECD data.  
-<iframe src="https://data.oecd.org/chart/6XO7" width="500" height="375" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XO7" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+<iframe src="https://data.oecd.org/chart/6XPa" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XPa" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
 ### Visualization 2: (Grid of line charts)
 Here is another visualiztion of the same data from OECD about general government debt using line chart in a grid. 
