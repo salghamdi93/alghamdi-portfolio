@@ -26,10 +26,11 @@ Another one would be measuring the time spent by an average person to get the ma
 
 ## Step three: sketch out a solution
 First Sketch:
+<br>
 <img src="https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/sketch_1.png" width="80%" height="80%">
-
 <br>
 Second Sketch: (I dropped it as it got negative feedback)
+<br>
 <img src="https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/sketch_2.png" width="80%" height="80%">
 
 
