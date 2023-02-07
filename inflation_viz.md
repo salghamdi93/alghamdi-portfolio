@@ -26,9 +26,11 @@ I would suggest a metric that tries to measure the trade-off between violating s
 Another one would be measuring the time spent by an average person to get the main idea of the visualizations. A threshold like for example 20 seconds would be used to set an acceptable time where more than the threshold would mean that the visualization needs to be adjusted or redesigned. Moreover, this metric would need a group of people to participate in order to capture the metric value. For this metric, the visualization would get a high score since it can be grasped within 20 seconds. 
 
 ## Step three: sketch out a solution
-![alt text](https://github.com/salghamdi93/alghamdi-portfolio/blob/main/sketch 1.png.png)
+First Sketch:
+![Model](https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/sketch_1.png)
 <br>
-![alt text](https://github.com/salghamdi93/alghamdi-portfolio/blob/main/sketch 2.png.png)
+Second Sketch: (I dropped it as it got negative feedback)
+![Model](https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/sketch_2.png)
 
 ## Step four: Test the solution
 Questions Asked
