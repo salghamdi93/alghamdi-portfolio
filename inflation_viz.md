@@ -5,7 +5,7 @@ I chose the first visualization in the following article. Title: Watching inflat
 ![Model](https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/original_viz.png)
 <br>
 Link: https://www.nbcnews.com/data-graphics/inflation-tracker-how-much-prices-rising-us-consumers-n1296378
-<img src="[https://your-image-url.type](https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/original_viz.png)" width="60%" height="60%">
+<img src="https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/original_viz.png" width="60%" height="60%">
 
 ## Step two: critiquing the data visualization
 The primary goal of this visualization was to show how inflation trends and prices for each month compared to the same time a year earlier for a group of commodities. However, in the subtitle, it says “See year over year price changes for major categories of goods” and this suggests that the visualization tracks the changes over different years while it actually only compares the change in inflation rate between the years 2021 and 2022. This was one of the first observations that confused me about the chart. What stood out to me was the use of shape and color, it was very eye-catching and the interactivity made it engaging to an extent. 
