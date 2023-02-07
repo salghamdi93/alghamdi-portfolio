@@ -2,10 +2,9 @@
 
 ## Step one: finding a data visualization
 I chose the first visualization in the following article. Title: Watching inflation.
-![Model](https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/original_viz.png)
+<img src="https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/original_viz.png" width="90%" height="90%">
 <br>
 Link: https://www.nbcnews.com/data-graphics/inflation-tracker-how-much-prices-rising-us-consumers-n1296378
-<img src="https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/original_viz.png" width="85%" height="85%">
 
 ## Step two: critiquing the data visualization
 The primary goal of this visualization was to show how inflation trends and prices for each month compared to the same time a year earlier for a group of commodities. However, in the subtitle, it says “See year over year price changes for major categories of goods” and this suggests that the visualization tracks the changes over different years while it actually only compares the change in inflation rate between the years 2021 and 2022. This was one of the first observations that confused me about the chart. What stood out to me was the use of shape and color, it was very eye-catching and the interactivity made it engaging to an extent. 
@@ -27,13 +26,11 @@ Another one would be measuring the time spent by an average person to get the ma
 
 ## Step three: sketch out a solution
 First Sketch:
-![Model](https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/sketch_1.png)
-<img src="https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/sketch_1.png" width="85%" height="85%">
+<img src="https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/sketch_1.png" width="80%" height="80%">
 
 <br>
 Second Sketch: (I dropped it as it got negative feedback)
-![Model](https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/sketch_2.png)
-<img src="https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/sketch_1.png" width="85%" height="85%">
+<img src="https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/sketch_2.png" width="80%" height="80%">
 
 
 ## Step four: Test the solution
