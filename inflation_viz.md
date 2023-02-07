@@ -2,7 +2,7 @@
 
 ## Step one: finding a data visualization
 I chose the first visualization in the following article. Title: Watching inflation.
-<img src="original viz.png" width=50% height=50%>
+<img src="original_viz.png" width=50% height=50%>
 <br>
 Link: https://www.nbcnews.com/data-graphics/inflation-tracker-how-much-prices-rising-us-consumers-n1296378
 
