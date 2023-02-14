@@ -59,3 +59,9 @@ Source: https://ourworldindata.org/grapher/average-working-hours-of-children?tab
 # Method and medium 
 I would need to do more work on writing the text that will be along with the graphs and to decide what the topic and headlines will be. I also plan to use Shorthand to showcase the story, so I need to do more work on finding appropriate images and graphics that help in story flow and meaning.
 
+#References
+
+ i https://www.ilo.org/ipec/facts/lang--en/index.htm
+ ii https://www.theworldcounts.com/stories/child-labor-facts-and-statistics
+ iii https://www.theguardian.com/law/2021/jun/10/child-labour-worldwide-increases-for-first-time-in-20-yearsdeprive
+ iv https://www.ohchr.org/en/press-releases/2022/05/un-experts-urge-action-address-alarming-increase-child-labour-agriculture
