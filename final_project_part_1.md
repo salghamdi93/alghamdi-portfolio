@@ -56,6 +56,6 @@ Source: https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2022/
 9.	Average working hours of children
 Source: https://ourworldindata.org/grapher/average-working-hours-of-children?tab=table
 
-Method and medium
+# Method and medium 
 I would need to do more work on writing the text that will be along with the graphs and to decide what the topic and headlines will be. I also plan to use Shorthand to showcase the story, so I need to do more work on finding appropriate images and graphics that help in story flow and meaning.
 
