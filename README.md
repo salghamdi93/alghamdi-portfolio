@@ -10,4 +10,4 @@ I hope to learn more about the optimal methods and strategies that I could use t
 # Portfolio Files 
 * [HW 1- General government debt exercise](general_government_debt_excercise.md)
 * [HW 4- Inflation Visualization](inflation_viz.md)
-* Final Project part I (final_project_part_1.md)
+* [Final Project part I] (final_project_part_1.md)
