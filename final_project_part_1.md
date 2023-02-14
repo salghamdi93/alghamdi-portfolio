@@ -32,6 +32,8 @@ How can we help end child labor? Tips and policy recommendations.
 <img src="https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/Project sketches o[3845].png" width="70%" height="70%">
 
 # Data Sources 
+Here are my main data sources and I am planning to use almost all of them in graphing the ideas I mentioned in the conflict part above. Data source #1 will help me in identifying the proportion of children engaged in data labor by country. Data sources #2 and #3 will be essential in showing how poverty connects to child labor. Data source #4 is limited in terms of the years but it would help in showing the percentage of kids that work in dangerous conditions. Data source #5 is a report that includes valuable information about child labor that was not available in any other source, I scraped the data from Fig 3. Percentage and number of children aged 5 to 17 years in child labor and hazardous work. Data sources #6 (by country) and #7 (by region) document child labor prevalence for different countries and I am planning in using them in a map to show how pervasive are the ratios in different regions of the world. As for data source #8, I am planning on using it to graph the count of goods associated with child labor by country and by goods. 
+
 1.	Children aged 5-17 years engaged in labor.
  Source: [https://ourworldindata.org/grapher/children-aged-5-17-years-engaged-in-labour?tab=table](https://ourworldindata.org/grapher/children-aged-5-17-years-engaged-in-labour?tab=table)
 2.	Poverty rate by country
@@ -56,11 +58,9 @@ Source: [https://ilostat.ilo.org/resources/concepts-and-definitions/description-
 8.	Goods that are most commonly associated with child labor across
 Source: [https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2022/2022ListofGoodsExcel.xlsx](https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2022/2022ListofGoodsExcel.xlsx)
 
-9.	Average working hours of children
-Source: [https://ourworldindata.org/grapher/average-working-hours-of-children?tab=table](https://ourworldindata.org/grapher/average-working-hours-of-children?tab=table)
 
 # Method and medium 
-I would need to do more work on writing the text that will be along with the graphs and to decide what the topic and headlines will be. I also plan to use Shorthand to showcase the story, so I need to do more work on finding appropriate images and graphics that help in story flow and meaning.
+I would need to do more work on writing the text that will be along with the graphs and to decide what the topic and headlines will be. I also plan to use Shorthand to showcase the story, so I need to do more work on finding appropriate images and graphics that help in story flow and meaningfulness. 
 
 # References
 
