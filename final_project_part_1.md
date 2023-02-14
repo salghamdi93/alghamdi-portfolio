@@ -29,9 +29,9 @@ How can we help end child labor? Tips and policy recommendations.
 # Initial sketches
 <img src="https://raw.githubusercontent.com/salghamdi93/alghamdi-portfolio/main/Project sketches o[3845].png" width="70%" height="70%">
 
-# Data Sources
+# Data Sources 
 1.	Children aged 5-17 years engaged in labor.
- Source: https://ourworldindata.org/grapher/children-aged-5-17-years-engaged-in-labour?tab=table
+ Source: [https://ourworldindata.org/grapher/children-aged-5-17-years-engaged-in-labour?tab=table](https://ourworldindata.org/grapher/children-aged-5-17-years-engaged-in-labour?tab=table)
 2.	Poverty rate by country
 Source: https://wisevoter.com/country-rankings/poverty-rate-by-country/
 
