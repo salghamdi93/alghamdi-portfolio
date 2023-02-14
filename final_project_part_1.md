@@ -8,7 +8,7 @@ In this project, I want to emphasize the shocking facts about child labor around
 
 # Project Structure
 Setup: 
-After all these years, global child labor is still a major issue in the world that still deprive children of their basic rights.
+After all these years, global child labor is still a major issue in the world that still deprive children of their basic rights.<br>
 Conflict:
 * How many children are in child labor? And how many work in the hazardous situation?
 * What’s the proportion of children engaged in labor by country?
@@ -24,7 +24,7 @@ o	Approximately 60% of families who have fled from Syria and are currently livin
 o	The COVID-19 pandemic has put an estimated nine million more children at risk of being forced into child labor by the end of 2022.
 * UN experts urge action to address the alarming increase of child labor in the agriculture sector. “The Call emphasizes the need for urgent action because the COVID-19 pandemic, armed conflicts, along with food, humanitarian and climate change threaten to reverse years of progress against child labor.” [iv]
 
-
+<br>
 Resolution:
 How can we help end child labor? Tips and policy recommendations. 
 
