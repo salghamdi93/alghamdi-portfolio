@@ -64,7 +64,7 @@ I would need to do more work on writing the text that will be along with the gra
 
 #References
 
- i [https://www.ilo.org/ipec/facts/lang--en/index.htm](https://www.ilo.org/ipec/facts/lang--en/index.htm)
- ii [https://www.theworldcounts.com/stories/child-labor-facts-and-statistics](https://www.theworldcounts.com/stories/child-labor-facts-and-statistics)
- iii [https://www.theguardian.com/law/2021/jun/10/child-labour-worldwide-increases-for-first-time-in-20-yearsdeprive](https://www.theguardian.com/law/2021/jun/10/child-labour-worldwide-increases-for-first-time-in-20-yearsdeprive)
- iv [https://www.ohchr.org/en/press-releases/2022/05/un-experts-urge-action-address-alarming-increase-child-labour-agriculture](https://www.ohchr.org/en/press-releases/2022/05/un-experts-urge-action-address-alarming-increase-child-labour-agriculture)
+ i [https://www.ilo.org/ipec/facts/lang--en/index.htm](https://www.ilo.org/ipec/facts/lang--en/index.htm)<br>
+ ii [https://www.theworldcounts.com/stories/child-labor-facts-and-statistics](https://www.theworldcounts.com/stories/child-labor-facts-and-statistics)<br>
+ iii [https://www.theguardian.com/law/2021/jun/10/child-labour-worldwide-increases-for-first-time-in-20-yearsdeprive](https://www.theguardian.com/law/2021/jun/10/child-labour-worldwide-increases-for-first-time-in-20-yearsdeprive)<br>
+ iv [https://www.ohchr.org/en/press-releases/2022/05/un-experts-urge-action-address-alarming-increase-child-labour-agriculture](https://www.ohchr.org/en/press-releases/2022/05/un-experts-urge-action-address-alarming-increase-child-labour-agriculture)<br>
