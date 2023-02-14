@@ -8,7 +8,9 @@ In this project, I want to emphasize the shocking facts about child labor around
 
 # Project Structure
 Setup: 
-After all these years, global child labor is still a major issue in the world that still deprive children of their basic rights.<br>
+After all these years, global child labor is still a major issue in the world that still deprive children of their basic rights.
+
+<br>
 Conflict:
 * How many children are in child labor? And how many work in the hazardous situation?
 * What’s the proportion of children engaged in labor by country?
