@@ -21,3 +21,12 @@ My approach to choosing the interviews is a bit different than the target audien
 
 
 ## Interview script
+
+### Q 1) Just in a couple of words, what do you think the story is about?	
+##### User 1: 
+Throughout the story, we learn about child labor around the world.	
+##### User 2: 
+Educating about child labor encourages viewers to make an impactful change.
+##### User 3: 
+It is about the pressing issue of child labor. It explores its causes, history, status, and possible solutions. 
+
