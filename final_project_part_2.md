@@ -51,7 +51,7 @@ Again, I’d say try not to use green. Green is happy!
 
 -	Are these % by country? (for the poverty graph)
 Kids look so happy here I feel bad to delete them from a seemingly nice environment! (for the photo with the three kids)
--	Add some quantitative impact the viewer could make. “Every 100 less child labor product purchase could help blah blah blah” (for the text about let’s change the image)
+-	Add some quantitative impact the viewer could make. “Every 100 less child labor product purchase could help blah blah blah” (for the text about let’s change the image)<br>
  User 3: I am confused about the image of persons shape with a background, both visually and the test. The graph with the good associated with child labor has numbers that are not explained. The possible future is with no source. Reversing years of progress slide is ambiguous. And there are some missing years in the bar chart. 
 
 
