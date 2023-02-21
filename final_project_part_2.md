@@ -21,3 +21,15 @@ My approach to choosing the interviews is a bit different than the target audien
 
 
 ## Interview script
+| Question | Person 1 | Person 2 | Person 3| 
+| Just in a couple of words, what do you think the story is about? | Throughout the story, we learn about child labor around the world. Educating about child labor encourages viewers to make an impactful change. | Educating about child labor encourages viewers to make an impactful change. |
+| --- | --- |--- | --- |
+| --- | --- |--- | --- |
+| --- | --- |--- | --- |
+| --- | --- |--- | --- |
+| --- | --- |--- | --- |
+| --- | --- |--- | --- |
+
+
+
+
