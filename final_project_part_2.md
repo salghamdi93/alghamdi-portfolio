@@ -21,7 +21,7 @@ My approach to choosing the interviews is a bit different than the target audien
 
 
 ## Interview script
-| Question | Person 1 | Person 2 | Person 3| 
+| Question | Person 1 | Person 2 | Person 3|
 | Just in a couple of words, what do you think the story is about? | Throughout the story, we learn about child labor around the world. Educating about child labor encourages viewers to make an impactful change. | Educating about child labor encourages viewers to make an impactful change. |
 | Would you suggest any changes to the content, visual or written? | For the visual content in the "Let's change the image" section, here are my thoughts. 
 This might be me a trivial issue, but can you change the children to have normal things a child should have (like books, fruit, toys, … etc.) instead of them vanishing? To me, when a character's image vanishes like that, it represents them dying. I'm sure if that is not the intended message but if you can change it would be a visual change that might evoke users' emotion since they see the end goal. Or
