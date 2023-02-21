@@ -100,12 +100,12 @@ User 3: To some extent, the donation was stronger though cause I didn’t feel a
 
 
 ## User research: findings
-Based on user 1 feedback:
+### Based on user 1 feedback:
 -	I will change the title of the graph titled “child fight labor stuck since 2016” as we can clearly see from the graphs that it actually increased. So I would change it to something that conveys the idea of the rate increase for the first time in two decades.
 -	I will also try to include a story about specific children who were exploited in labor rather than just mentioning numbers and stats.
 -	I could mention also how previous efforts changed the child labor scene previously or be more tangible about how the donation would affect children, like for example every 1 dollar donated could save 1 hour of hard labor for 3 children.
 -	Adding a button to download the app. 
-Based on user 2 feedback:
+### Based on user 2 feedback:
 -	I will change the title of the graph about that fact of 1 child engaged in labor among every 10 children.
 -	I will consider changing the position of the pictogram in the graph I mentioned in the previous point and also changing the icon. Flourish provided only this icon for me but I will see if I can customize one. 
 -	For the circle chart about the number of children in child labor, I need to change the color as green in suggesting that these are positive facts and the same applies to the fight against child labor graph. 
@@ -113,8 +113,8 @@ Based on user 2 feedback:
 -	I’m thinking about adding a network flow of products from Africa to the rest of the world to show how child labor is happening in Africa but we are all involved in child labor without knowing. 
 -	The graph about goods associated with child labor also cause a lot of confusion and I need to revisit it to find a way to show that the numbers are the number of countries involved in child labor for that exact good.
 -	For the images where the children vanishes, it seems the children seemed quite happy so I think it would be better to change the photo but keep the effect.
--	What impact the audience can make in numbers? I could contemplate more about this and find a way to better communicate it with the reader so they could see how their efforts would make a change.
-Based on user 2 feedback:
+-	What impact the audience can make in numbers? I could contemplate more about this and find a way to better communicate it with the reader so they could see how their efforts would make a change. 
+### Based on user 2 feedback:
 -	There is definitely an issue with the graph about the good associated with child labor so I think I could change the chart type to a simpler one, I will experiment with the new tool we learned about in class today. 
 -	The board with the child selling veggies got a lot of likes so I will keep it.
 -	The intention of “reversing the progress” idea was not communicated clearly and was misinterpreted so I will change the title and try to use the effect to show the concept more clearly. I could possibly include the graph to explain the idea but remove the number from it.   
