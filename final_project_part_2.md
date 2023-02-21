@@ -1,6 +1,6 @@
 # Wireframes/storyboards
 Link to shorthand: 
-https://preview.shorthand.com/yzpEnQIW2te44yrv
+* [https://preview.shorthand.com/yzpEnQIW2te44yrv](https://preview.shorthand.com/yzpEnQIW2te44yrv)
 
 # User research
 ## Target audience
