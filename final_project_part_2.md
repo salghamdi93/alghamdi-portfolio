@@ -24,8 +24,8 @@ My approach to choosing the interviews is a bit different than the target audien
 
 ### Q 1) Just in a couple of words, what do you think the story is about?	
 User 1: Throughout the story, we learn about child labor around the world.	
- User 2: Educating about child labor encourages viewers to make an impactful change.
- User 3: It is about the pressing issue of child labor. It explores its causes, history, status, and possible solutions. 
+User 2: Educating about child labor encourages viewers to make an impactful change.
+User 3: It is about the pressing issue of child labor. It explores its causes, history, status, and possible solutions. 
 
 ### Q 2) Would you suggest any changes to the content, visual or written?
  User 1: For the visual content in the "Let's change the image" section, here are my thoughts. 
@@ -57,4 +57,43 @@ Kids look so happy here I feel bad to delete them from a seemingly nice environm
 
 ### Q 3) Did any part confuse you? If yes, please let me know what parts and why did it make you feel confused?
 
+User 1: I'm not sure about this assertion title, 
 
+"Child labor fight globally stuck since 2016" 
+
+If it supposed to mean that the global pushback against child labor has been stuck, maybe "stuck" here is not the accurate term since it has increased by around 10 million since 2016.
+Also, I was a bit confused since the bar chart indicate the number of children in employment while the assertion title is reporting the fight against it. I would suggest changing it to something like: Children employment numbers has increased in 2021. Or adding more data representing the global pushback. 
+
+User 2: -	Can make it more relatable by adding - “approx xx hours every minute passed” (referring for the time counter board).
+-	I don’t quite understand this one. (referring to the child labor hours graph). I personally would add the traffic of the production destinations here. Because people who read this mainly are anywhere else, and people who you might aim to educate are probably one of the destinations. Maybe add something like “Products from these countries are exported to xx% Country A, xx% Country B”. (for worst countries for child labor graph). Should this be a percentage? How is this weighted? By hours spent, finished products, or dollars? (for the graph about the goods associated with child labor)
+
+-	Are these % by country? (for the poverty graph)
+Kids look so happy here I feel bad to delete them from a seemingly nice environment! (for the photo with the three kids)
+-	  Add some quantitative impact the viewer could make. “Every 100 less child labor product purchase could help blah blah blah” (for the text about let’s change the image)
+
+User 3: Goods associated with child labor by country section. I didn’t understand the numbers under each good. Also there is no country in the graph.
+
+### Q 4)	What did you like the most about the story?
+User 1: There was something really touching about the story of the Nepali child. By reading these children's stories and viewing their statistics, I believe users will be motivated to empathize with them.
+User 2: I like the impactful images and transitions. Removing children from the labor scene and stuff.
+User 3: It is generally great, I liked the richness of information and the graphics. I particularly loved the slide with the example of a child selling vegetables to eat.
+
+### Q 5) Is there any element you would suggest removing?
+User 1: No
+User 2: I think all of them are fine to have. Some might be a bit more “number and stats” but people who aren’t into numbers will just scroll past, and those who do will read. So it’s fine as is.
+User 3: Not necessarily remove but the section titled ‘possible future’ seemed not necessary. It raises the question of what is this based on? Also it is a concerning issue as is (I didn’t feel like more children significantly changes perspective, it is VERY disturbing as it is)
+
+### Q 6) Do you think the data visualizations supported the story?
+User 1: Yes
+User 2: Yes
+User 3: Yes very much
+
+### Q 7)Is there anything else that you would like to see regarding this topic that would help you connect more with the story?
+User 1: A more in-depth look at the stories of children will make a powerful impact. As well, I wonder if the story can feature success stories of initiatives that helped some children escape this grim situation.
+User 2: I would want to see something relatable to the viewers and how their action could be impactful.
+User 3: Perhaps what efforts were done in the past to improve? Why did it stop?
+
+### Q 8) Did you feel like you wanted to take an action by either donating or downloading the app?
+User 1: Yes indeed. It might be a good idea to add a download button for the app. 
+User 2: Yes
+User 3: To some extent, the donation was stronger though cause I didn’t feel a direct correlation between the app and the issue. How is this app helpful?
