@@ -13,7 +13,7 @@ My approach to choosing the interviews is a bit different than the target audien
 
 | Goal | Question to ask | 
 | --- | --- |
-| Confirm if the story flows in a logical and compelling way | 1.	Just in a couple of words, what do you think the story is about? 2.	Would you suggest any changes to the content, visual or written?| 
+| Confirm if the story flows in a logical and compelling way | 1.	Just in a couple of words, what do you think the story is about? <br>2.	Would you suggest any changes to the content, visual or written?| 
 | Confirm that the idea is clear and well communicated | 3.	Did any part confuse you? If yes, please let me know what parts and why did it make you feel confused?4.	What did you like the most about the story?5.	Is there any element you would suggest removing?6.	Do you think the data visualizations supported the story?7.	Is there anything else that you would like to see regarding this topic that would help you connect more with the story?| 
 | Affecting the reader to respond and take an action | 8.	Did you feel like you wanted to take an action by either donating or downloading the app?| 
 
