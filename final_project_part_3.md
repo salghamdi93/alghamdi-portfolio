@@ -1,4 +1,4 @@
-| [home page](README.md) | [visualizing debt](general_government_debt_excercise) | [Inflation Visualization](inflation_viz) | [final project I](final_project_part_1 [final project II](final_project_part_2)
+| [home page](README.md) | [visualizing debt](general_government_debt_excercise) | [Inflation Visualization](inflation_viz) | [final project I](final_project_part_1) [final project II](final_project_part_2)
 
 # The final data story
 Link:
