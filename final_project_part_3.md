@@ -1,4 +1,4 @@
-| [home page](README.md) | [visualizing debt](visualizing-government-debt) |
+| [home page](README.md) | [visualizing debt](general_government_debt_excercise) | [Inflation Visualization](inflation_viz) |[final project I](final_project_part_1)|[final project II](final_project_part_2)
 
 # The final data story
 Link:
@@ -24,21 +24,37 @@ I enjoyed creating the story and also learned a lot in the journey, I wished I h
 
 # References
 [1]	“Five Reasons Why Eradicating Child Labor Is Crucial for Education.” Global Business Coalition for Education, March 10, 2022. https://gbc-education.org/insights/five-reasons-why-eradicating-child-labor-is-crucial-for-education/. 
+
 [2]	“Child Labor Statistics.” UNICEF DATA, May 20, 2022. https://data.unicef.org/topic/child-protection/child-labour/. 
+
 [3]	“Why Does Child Labour Happen? Here Are Some of the Root Causes.” ECLT Foundation, February 27, 2023. https://www.eclt.org/en/news/child-labour-causes. 
+
 [4]	Esveld, Bill Van. “‘We're Afraid for Their Future.’” Human Rights Watch, June 6, 2017. https://www.hrw.org/report/2016/08/16/were-afraid-their-future/barriers-education-syrian-refugee-children-jordan. 
+
 [5]	Becker, Jo. “‘I Must Work to Eat.’” Human Rights Watch, May 26, 2021. https://www.hrw.org/report/2021/05/26/i-must-work-eat/covid-19-poverty-and-child-labor-ghana-nepal-and-uganda. 
+
 [6]	“List of Goods Produced by Child Labor or Forced Labor.” DOL. Accessed February 27, 2023. https://www.dol.gov/agencies/ilab/reports/child-labor/list-of-goods-print. 
+
 [7]	The world counts. Accessed February 27, 2023. https://www.theworldcounts.com/challenges/child-labor/modern-day-child-labor. 
+
 [8]	“UN Experts Urge Action to Address Alarming Increase of Child Labour in Agriculture Sector.” OHCHR, May 30, 2022. https://www.ohchr.org/en/press-releases/2022/05/un-experts-urge-action-address-alarming-increase-child-labour-agriculture. 
+
 [9]	Published by Statista Research Department, and Oct 13. “Children in Labor and Hazardous Work 2000-2020.” Statista, October 13, 2022. https://www.statista.com/statistics/267996/child-labor-worldwide/. 
+
 [10]	“Child Labor Rises to 160 Million – First Increase in Two Decades.” UNICEF USA, June 11, 2021. https://www.unicefusa.org/press/releases/child-labor-rises-160-million-%E2%80%93-first-increase-two-decades/38686. 
+
 [11]	Chughtai, Alia. “Infographic: How Many Children Are Forced to Work Globally?” Infographic News | Al Jazeera. Al Jazeera, June 12, 2022. https://www.aljazeera.com/news/2022/6/12/infographic-how-many-children-are-forced-to-work. 
+
 [12]	Reid, Kathryn. “Child Labor: Facts, Faqs, and How to Help End It.” World Vision, July 8, 2022. https://www.worldvision.org/child-protection-news-stories/child-labor-facts#facts. 
+
 [13]	“What Is Child Labour (IPEC).” International Labour Organization. Accessed February 27, 2023. https://www.ilo.org/ipec/facts/lang--en/index.htm. 
+
 [14]	“Child Labour Worldwide Increases for First Time in 20 Years.” The Guardian. Guardian News and Media, June 10, 2021. https://www.theguardian.com/law/2021/jun/10/child-labour-worldwide-increases-for-first-time-in-20-years. 
+
 [15]	“Child Labor Facts and Statistics.” The world counts. Accessed February 27, 2023. https://www.theworldcounts.com/stories/child-labor-facts-and-statistics.
+
 [16]	Allan-Blitz LT, Goldfine C, Erickson TB. Environmental and health risks posed to children by artisanal gold mining: A systematic review. SAGE Open Med. 2022 Feb 9;10:20503121221076934. doi: 10.1177/20503121221076934. PMID: 35173966; PMCID: PMC8841918.
+
 [17]	“RESULTS AND TRENDS, 2012-2016, Global estimates of child labour: Results and trends,2012-2016”, ILO, 2017.Accessed March. https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_575499.pdf
 
 
