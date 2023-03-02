@@ -1,4 +1,4 @@
-| [home page](README.md) | [visualizing debt](visualizing-government-debt.md) |
+| [home page](README.md) | [visualizing debt](visualizing-government-debt) |
 
 # The final data story
 Link:
