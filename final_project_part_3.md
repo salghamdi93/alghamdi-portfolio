@@ -1,3 +1,5 @@
+| [home page](README.md) | [visualizing debt](visualizing-government-debt.md) |
+
 # The final data story
 Link:
 
@@ -7,6 +9,7 @@ I received a thorough and helpful feedback on my storyboard, and I tried to inco
 As for the story, I think I got caught up in gathering the data and making visualization which led to problems and gaps in the narrative. I tried to fix this problem by adding more transition boards, for example I added a board that tries to answer the question about the drivers of child labor that are leading to worsening the situation: wars, pandemics, poverty and disasters. In my pursuit to tie the story together I also decided to remove some of the board, like a board that aimed at visualizing the idea of how many labor hours children were spent this year and another board that has a live counter of hours of labor. I also edited the board which was about reversing the progress and decided to add a visualization to it to demonstrate the gap between the actual projection of child labor and the organization’s false estimations. The decision to remove some of these boards was to better focus the story on the main elements and utilize the space to introduce new ideas. My main objective was to make sure the story flows better and tie it together as much as possible. 
 
 As for the content, I also made many changes to the existing written and visual content since part II. The written part especially was not yet fully developed as I had a lot of text place holders but now all the written part is developed to support the visuals. In addition, I added more content elements in the iteration of the project. My goal was to add more of voice into the story and distinguish it from other UNICEF kind reports and to visualize data that has not been visualized yet. The first element I included is about exploiting children in gold mining and the second one was about Syrian refugees in Jordan and their need to rely on their children’s work to cover the necessities. These boards should help in connecting the dots between why children labor is still a major issue in the world and how it intertwined with other complicated issues that forced children to work and earn money. The third element I included was added to the call action, to make the story even more personal and make a strong connection with the audience, I added information about an actual little child who the audience could sponsor and support through donations. Lastly, I revised all the citations to make sure that every element is well referenced. Lastly, at the end of the story, I reiterated the question that was asked at the beginning of the story about whether we win our war against child labor to give the readers a moment where they contemplate about the question and then I asked them to take an action. I also ended up changing so many titles, I changes the following title from “Poverty Pushes Children to Labor” to “Child Labor In Relation to Poverty, Which Leads The Other?”, and another from “How many children are forced to work globally?” to “Millions of Children Engaged In Labor Around The World” to make them more impactful. 
+
 I terms of the design, it’s the part that had the least changes as I received generally positive feedback on the use of graphics and visualization. However, the graph about the goods most associated with child labor raised a lot of questions and I addressed that by adding notes to explain it along with the text to make sure it is easily comprehensible. My decision to go with green in some graphs was also problematic, so I made changes to the colors and replace the green with shades of grey. I also changed the icons used for the pictorial graph about the statistics about child labor, as the previous icons showed the children cheering up but it was the only available pictogram in flourish, happily, Infogram provided more options for pictogram icons. I made changes to some of the images used as well, for example, I changed the kid vanishing image to another one that better captures the children’s emotions. Lastly, I took the child labor map and position it parallel to another map I created about the poverty, to intrigue the reader to see how similar the two maps are. 
 
 # Final design decisions
@@ -15,6 +18,9 @@ One of the lessons I learned is how important sketching and planning is before s
 
 # The audience
 I mentioned in part II that my target audience includes parents, business owners, and policymakers but I based on how my story evolved, I revised the audience scope to limit it to two main groups: First are individuals who care about child generational poverty, children rights and equity issues and not necessarily activist or well-rounded about the topic but have enough incentive to help. Second are consumers, consumers who purchase products that may have been produced by child labor are also a target audience for my story the story should encourage them to choose products that are produced ethically. 
+
+# Final thoughts
+I enjoyed creating the story and also learned a lot in the journey, I wished I had more time to search more about this critical topic and find more creative ways to visually convince people to take action. 
 
 # References
 “Five Reasons Why Eradicating Child Labor Is Crucial for Education.” Global Business Coalition for Education, March 10, 2022. https://gbc-education.org/insights/five-reasons-why-eradicating-child-labor-is-crucial-for-education/. 
@@ -35,6 +41,5 @@ Reid, Kathryn. “Child Labor: Facts, Faqs, and How to Help End It.” World Vis
 Allan-Blitz LT, Goldfine C, Erickson TB. Environmental and health risks posed to children by artisanal gold mining: A systematic review. SAGE Open Med. 2022 Feb 9;10:20503121221076934. doi: 10.1177/20503121221076934. PMID: 35173966; PMCID: PMC8841918.
 “RESULTS AND TRENDS, 2012-2016, Global estimates of child labour: Results and trends,2012-2016”, ILO, 2017.Accessed March. https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_575499.pdf
 
-Final thoughts
-I enjoyed creating the story and also learned a lot in the journey, I wished I had more time to search more about this critical topic and find more creative ways to visually convince people to take action. 
+
 
