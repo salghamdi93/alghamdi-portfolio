@@ -23,6 +23,7 @@ I mentioned in part II that my target audience includes parents, business owners
 I enjoyed creating the story and also learned a lot in the journey, I wished I had more time to search more about this critical topic and find more creative ways to visually convince people to take action. 
 
 # References
+<p>
 “Five Reasons Why Eradicating Child Labor Is Crucial for Education.” Global Business Coalition for Education, March 10, 2022. https://gbc-education.org/insights/five-reasons-why-eradicating-child-labor-is-crucial-for-education/. 
 “Child Labor Statistics.” UNICEF DATA, May 20, 2022. https://data.unicef.org/topic/child-protection/child-labour/. 
 “Why Does Child Labour Happen? Here Are Some of the Root Causes.” ECLT Foundation, February 27, 2023. https://www.eclt.org/en/news/child-labour-causes. 
@@ -41,5 +42,5 @@ Reid, Kathryn. “Child Labor: Facts, Faqs, and How to Help End It.” World Vis
 Allan-Blitz LT, Goldfine C, Erickson TB. Environmental and health risks posed to children by artisanal gold mining: A systematic review. SAGE Open Med. 2022 Feb 9;10:20503121221076934. doi: 10.1177/20503121221076934. PMID: 35173966; PMCID: PMC8841918.
 “RESULTS AND TRENDS, 2012-2016, Global estimates of child labour: Results and trends,2012-2016”, ILO, 2017.Accessed March. https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_575499.pdf
 
-
+</p>
 
