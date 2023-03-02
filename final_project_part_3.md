@@ -43,7 +43,7 @@ I enjoyed creating the story and also learned a lot in the journey, I wished I h
 
 [10]	“Child Labor Rises to 160 Million – First Increase in Two Decades.” UNICEF USA, June 11, 2021. https://www.unicefusa.org/press/releases/child-labor-rises-160-million-%E2%80%93-first-increase-two-decades/38686. 
 
-[11]	Chughtai, Alia. “Infographic: How Many Children Are Forced to Work Globally?” Infographic News | Al Jazeera. Al Jazeera, June 12, 2022. https://www.aljazeera.com/news/2022/6/12/infographic-how-many-children-are-forced-to-work. 
+[11]	Chughtai, Alia. “Infographic: How Many Children Are Forced to Work Globally?” Infographic News, Al Jazeera. Al Jazeera, June 12, 2022. https://www.aljazeera.com/news/2022/6/12/infographic-how-many-children-are-forced-to-work. 
 
 [12]	Reid, Kathryn. “Child Labor: Facts, Faqs, and How to Help End It.” World Vision, July 8, 2022. https://www.worldvision.org/child-protection-news-stories/child-labor-facts#facts. 
 
