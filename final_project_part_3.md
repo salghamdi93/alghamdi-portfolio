@@ -3,7 +3,7 @@
 
 # Project Part III
 # The final data story
-Link to Shorthand:https://carnegiemellon.shorthandstories.com/child-labor/index.html
+Link to Shorthand: [Click here](https://carnegiemellon.shorthandstories.com/child-labor/index.html)
 
 # Changes made since Part II
 I received a thorough and helpful feedback on my storyboard, and I tried to incorporate it in this part of the project. I can classify the changes made at this stage into three main categories: story, content and design.
