@@ -59,5 +59,6 @@ I enjoyed creating the story and also learned a lot in the journey, I wished I h
 
 [17]	“RESULTS AND TRENDS, 2012-2016, Global estimates of child labour: Results and trends,2012-2016”, ILO, 2017.Accessed March. https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_575499.pdf
 
+[18] Wuilbercq, Emeline. “U.N. Goal to End Child Labour by 2025 Deemed Impractical, out of Touch.” Reuters. Thomson Reuters, January 28, 2021. https://www.reuters.com/article/us-global-childlabour-trfn/u-n-goal-to-end-child-labour-by-2025-deemed-impractical-out-of-touch-idUSKBN29X1JI.
 
 
